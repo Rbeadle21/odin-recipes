@@ -1,7 +1,16 @@
 body {
-    background-color: rgb(238, 210, 176);
+    background-color: rgb(243, 218, 187);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 1.6em;
 }
 
 h1 {
     color:rgb(55, 55, 138);
+    text-align: center;
+}
+
+.imgcenter {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
 }
