@@ -2,6 +2,7 @@ body {
     background-color: rgb(243, 218, 187);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     line-height: 1.6em;
+    margin: 10%;
 }
 
 h1 {
@@ -13,4 +14,22 @@ h1 {
     display:block;
     margin-left: auto;
     margin-right: auto;
+}
+
+.ingredients {
+    display: block;
+    background-color: #524e4e;
+    color: white;
+    border: 4px dotted #a4471c;
+    padding: 5%;
+    line-height: 1.8em;
+}
+
+.steps {
+    display: block;
+    background-color: rgb(211, 238, 238);
+    color: rgb(58, 57, 57);
+    border: 4px dotted #a49b1c;
+    padding: 5%;
+    line-height: 1.8em;
 }
